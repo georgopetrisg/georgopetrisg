@@ -50,23 +50,20 @@ I'm currently an **undergraduate student of informatics** from **Corfu, Greece**
 
 <h2 align='center'>📫 Connect with me</h2>
 
-<h3 align='center'>🌍 Based in</h3>
-<p align='center'>Corfu, Greece</p>
+<h3>📧 Email</h3>
 
-<h3 align='center'>📧 Email</h3>
-
-<div align='center'>
+<div>
 <p><b>Academic: </b><a href='mailto:&#105;&#110;&#102;&#50;&#48;&#50;&#51;&#48;&#51;&#49;&#64;&#105;&#111;&#110;&#105;&#111;&#46;&#103;&#114;'>&#105;&#110;&#102;&#50;&#48;&#50;&#51;&#48;&#51;&#49;&#64;&#105;&#111;&#110;&#105;&#111;&#46;&#103;&#114;</a>
 <br>
 <b>Personal: </b><a href='mailto:&#103;&#101;&#111;&#114;&#103;&#111;&#112;&#101;&#116;&#114;&#105;&#115;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>&#103;&#101;&#111;&#114;&#103;&#111;&#112;&#101;&#116;&#114;&#105;&#115;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
 </p>
 </div>
 
-<h3 align='center'>🌐 Social Media</h3>
+<h3>🌐 Social Media</h3>
 
-<div align='center'>
-<a href="https://github.com/georgopetrisg" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
+<div>
+<!-- <a href="https://www.linkedin.com/in/georgios-georgopetris" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn"/></a> -->
 <a href="https://www.instagram.com/georgopetris/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" title="Instagram"/></a>
 </div>
