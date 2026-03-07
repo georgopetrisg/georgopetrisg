@@ -1,19 +1,78 @@
-# Hi 👋 My name is Georgios Georgopetris
+<div align='center'>
 
-## Undergraduate Informatics Student @ Ionian University
+<h2>🎓 Undergraduate Student @ Department of Informatics, Ionian University</h2>
+<h3></h3>
+</div>
 
-I am an undergraduate student in the Department of Informatics at the Ionian University.
+<h2 align='center'>💻 About Me</h2>
 
-* 🌍  I'm based in Corfu, Greece
-* ✉️  You can contact me at [inf2023031@ionio.gr](mailto:inf2023031@ionio.gr)
-*   🧠  I'm currently learning Backend Development and Web Frameworks such as Flask
+I'm currently an **undergraduate student of informatics** from **Corfu, Greece** exploring the exciting world of **software engineering, web development and databases**. I'm passionate about **learning new technologies, building small projects, and improving my coding skills every day**.
 
-### Skills
+<h2 align='center'>🚀 Interests</h2>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+- Creating **fun and useful web projects**  
+- Understanding **how databases and backend systems work**  
+- Contributing to **open-source projects and student communities**  
+- Exploring **new technologies and programming languages**
+
+<h2 align='center'>🛠️ Skills</h2>
+
+<div align="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
+<a href="https://docs.python.org/3/library/re.html" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=regex&theme=dark" alt="RegEx" title="RegEx"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+</div>
+
+<h2 align='center'>📫 Connect with me</h2>
+
+<h3 align='center'>🌍 Based in</h3>
+<p align='center'>Corfu, Greece</p>
+
+<h3 align='center'>📧 Email</h3>
+
+<div align='center'>
+<p><b>Academic: </b><a href='mailto:&#105;&#110;&#102;&#50;&#48;&#50;&#51;&#48;&#51;&#49;&#64;&#105;&#111;&#110;&#105;&#111;&#46;&#103;&#114;'>&#105;&#110;&#102;&#50;&#48;&#50;&#51;&#48;&#51;&#49;&#64;&#105;&#111;&#110;&#105;&#111;&#46;&#103;&#114;</a>
+<br>
+<b>Personal: </b><a href='mailto:&#103;&#101;&#111;&#114;&#103;&#111;&#112;&#101;&#116;&#114;&#105;&#115;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>&#103;&#101;&#111;&#114;&#103;&#111;&#112;&#101;&#116;&#114;&#105;&#115;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
 </p>
+</div>
 
-### Top Repositories
+<h3 align='center'>🌐 Social Media</h3>
 
-<div><a href="https://github.com/georgopetrisg/poi-routing-api" align="left">🧭 POI & Routing API</a></div><br />
+<div align='center'>
+<a href="https://github.com/georgopetrisg" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
+<a href="https://www.instagram.com/georgopetris/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" title="Instagram"/></a>
+</div>
+
+<h2 align='center'>📊 GitHub Stats</h2>
+
+<div align='center'>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=georgopetrisg&theme=github-dark-dimmed&hide_border=&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</div>
