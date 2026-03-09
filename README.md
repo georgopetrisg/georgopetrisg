@@ -1,5 +1,5 @@
 <div align='center'>
-
+<a href="https://github.com/charmbracelet/vhs" rel="noreferrer"><img src='assets/hello.gif' alt="Hi there! I'm George" title='Hello' width="714" height="350"></a>
 <h2>🎓 Undergraduate Student @ Department of Informatics, Ionian University</h2>
 <h3></h3>
 </div>
