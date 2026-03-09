@@ -10,10 +10,10 @@ I'm currently an **undergraduate student of informatics** from **Corfu, Greece**
 
 <h2 align='center'>🚀 Interests</h2>
 
-- Creating **fun and useful web projects**  
-- Understanding **how databases and backend systems work**  
-- Contributing to **open-source projects and student communities**  
-- Exploring **new technologies and programming languages**
+Creating **fun and useful web projects**  
+Understanding **how databases and backend systems work**  
+Contributing to **open-source projects and student communities**  
+Exploring **new technologies and programming languages**
 
 <h2 align='center'>🛠️ Skills</h2>
 
@@ -62,8 +62,8 @@ I'm currently an **undergraduate student of informatics** from **Corfu, Greece**
 <h3>🌐 Social Media</h3>
 
 <div>
-<!-- <a href="https://www.linkedin.com/in/georgios-georgopetris" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn"/></a> -->
+<a href="https://www.linkedin.com/in/georgios-georgopetris" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn"/></a>
 <a href="https://www.instagram.com/georgopetris/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" title="Instagram"/></a>
 </div>
