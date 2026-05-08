@@ -1,9 +1,9 @@
-# Welcome. I'm George.
+# Welcome. I am George.
 ## Undergraduate Student @ Department of Informatics, Ionian University
 
 ## About Me
 
-I'm currently an **undergraduate student of informatics** from **Corfu, Greece** exploring the exciting world of **software engineering, web development and databases**. I'm passionate about **learning new technologies, building small projects, and improving my coding skills every day**.
+I am currently an **undergraduate student of informatics** from **Corfu, Greece** exploring the exciting world of **software engineering, web development and databases**. I am passionate about **learning new technologies, building small projects, and improving my coding skills every day**.
 
 ## Interests
 
@@ -12,7 +12,7 @@ Understanding **how databases and backend systems work**
 Contributing to **open-source projects and student communities**  
 Exploring **new technologies and programming languages**
 
-## Skills
+## Languages and Tools
 
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
 [![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net/)
