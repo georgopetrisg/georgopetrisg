@@ -14,20 +14,7 @@ Exploring **new technologies and programming languages**
 
 ## Languages and Tools
 
-[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
-[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net/)
-[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/)
-[![RegEx](https://skillicons.dev/icons?i=regex&theme=dark)](https://docs.python.org/3/library/re.html)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
-[![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/)
-[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
-[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://www.w3.org/TR/CSS/#css)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://ubuntu.com/)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/) [![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net/) [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/) [![RegEx](https://skillicons.dev/icons?i=regex&theme=dark)](https://docs.python.org/3/library/re.html) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/) [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/) [![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://www.w3.org/TR/CSS/#css) [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://ubuntu.com/) [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
 
 ## Connect with me
 
