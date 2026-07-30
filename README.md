@@ -29,6 +29,6 @@ Exploring **new technologies and programming languages**
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=georgopetrisg&theme=github-dark-dimmed&hide_border=&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats-extended.vercel.app/api?username=georgopetrisg)]([https://git.io/streak-stats](https://github.com/stats-organization/github-stats-extended))
 
 ![](https://komarev.com/ghpvc/?username=georgopetrisg)
